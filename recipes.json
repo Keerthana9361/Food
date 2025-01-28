@@ -1,0 +1,1399 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Butter Chicken",
+      "difficulty": "Medium",
+      "prepTime": "4 hours",
+      "cookTime": "30 minutes",
+      "servings": 6,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?w=800",
+      "ingredients": [
+        "Chicken thighs",
+        "Yogurt",
+        "Tomato sauce",
+        "Heavy cream",
+        "Garam masala",
+        "Butter",
+        "Fenugreek leaves",
+        "Ginger-garlic paste"
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt",
+        "Make tomato-based sauce",
+        "Cook chicken in tandoor or oven",
+        "Finish in creamy sauce",
+        "Garnish with cream and butter"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Palak Paneer",
+      "difficulty": "Medium",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": 4,
+      "image": "https://cdn.zeptonow.com/production///tr:w-600,ar-100-100,pr-true,f-auto,q-80/web/recipes/palak-paneer.png",
+      "ingredients": [
+        "Spinach",
+        "Paneer cheese",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Heavy cream",
+        "Butter"
+      ],
+      "instructions": [
+        "Blanch and puree spinach",
+        "Fry paneer until golden",
+        "Make onion-tomato base",
+        "Add spices and cream",
+        "Combine with spinach puree"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Biryani",
+      "difficulty": "Hard",
+      "prepTime": "1 hour",
+      "cookTime": "45 minutes",
+      "servings": 6,
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800",
+      "ingredients": [
+        "Basmati rice",
+        "Chicken or lamb",
+        "Yogurt",
+        "Saffron",
+        "Whole spices",
+        "Fried onions",
+        "Mint leaves",
+        "Ghee"
+      ],
+      "instructions": [
+        "Marinate meat in yogurt",
+        "Par-cook rice with spices",
+        "Layer meat and rice",
+        "Add saffron milk",
+        "Steam until done"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dal Makhani",
+      "difficulty": "Medium",
+      "prepTime": "8 hours",
+      "cookTime": "3 hours",
+      "servings": 6,
+      "cost": 12,
+      "image": "https://www.funfoodfrolic.com/wp-content/uploads/2023/04/Dal-Makhani-Blog.jpg",
+      "ingredients": [
+        "Black lentils",
+        "Red kidney beans",
+        "Cream",
+        "Butter",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Kasuri methi"
+      ],
+      "instructions": [
+        "Soak lentils overnight",
+        "Pressure cook until soft",
+        "Make tomato base",
+        "Simmer for hours",
+        "Finish with cream"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Samosas",
+      "difficulty": "Hard",
+      "prepTime": "1 hour",
+      "cookTime": "30 minutes",
+      "servings": 12,
+      "cost": 10,
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800",
+      "ingredients": [
+        "All-purpose flour",
+        "Potatoes",
+        "Green peas",
+        "Cumin seeds",
+        "Ginger",
+        "Green chilies",
+        "Coriander leaves",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "Make pastry dough",
+        "Prepare potato filling",
+        "Shape samosas",
+        "Deep fry until golden",
+        "Serve with chutney"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Chole Bhature",
+      "difficulty": "Hard",
+      "prepTime": "8 hours",
+      "cookTime": "1 hour",
+      "servings": 6,
+      "cost": 15,
+      "image": "https://www.nehascookbook.com/wp-content/uploads/2022/11/Chole-wheat-bhature-WS-500x500.jpg",
+      "ingredients": [
+        "Chickpeas",
+        "All-purpose flour",
+        "Tea bags",
+        "Garam masala",
+        "Onions",
+        "Tomatoes",
+        "Green chilies",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "Soak chickpeas overnight",
+        "Cook with tea bags",
+        "Make bhature dough",
+        "Prepare spicy gravy",
+        "Fry bhature until puffy"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Malai Kofta",
+      "difficulty": "Hard",
+      "prepTime": "45 minutes",
+      "cookTime": "30 minutes",
+      "servings": 4,
+      "cost": 18,
+      "image": "https://carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe.jpg",
+      "ingredients": [
+        "Paneer",
+        "Potatoes",
+        "Cashews",
+        "Heavy cream",
+        "Tomatoes",
+        "Garam masala",
+        "Kasuri methi",
+        "Butter"
+      ],
+      "instructions": [
+        "Make paneer-potato balls",
+        "Prepare cashew gravy",
+        "Fry koftas",
+        "Simmer in gravy",
+        "Garnish with cream"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Tandoori Chicken",
+      "difficulty": "Medium",
+      "prepTime": "4 hours",
+      "cookTime": "40 minutes",
+      "servings": 4,
+      "cost": 20,
+      "image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=800",
+      "ingredients": [
+        "Chicken legs",
+        "Yogurt",
+        "Tandoori masala",
+        "Ginger-garlic paste",
+        "Lemon juice",
+        "Red food color",
+        "Butter",
+        "Chaat masala"
+      ],
+      "instructions": [
+        "Make marinade",
+        "Marinate chicken",
+        "Preheat oven high",
+        "Bake until charred",
+        "Baste with butter"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Rogan Josh",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "1 hour",
+      "servings": 6,
+      "cost": 28,
+      "image": "https://www.chewoutloud.com/wp-content/uploads/2022/08/Rogan-Josh-Square.jpg",
+      "ingredients": [
+        "Lamb",
+        "Yogurt",
+        "Kashmiri chilies",
+        "Fennel seeds",
+        "Ginger",
+        "Garlic",
+        "Whole spices",
+        "Saffron"
+      ],
+      "instructions": [
+        "Brown meat",
+        "Make yogurt base",
+        "Add spices",
+        "Slow cook",
+        "Finish with saffron"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Rasmalai",
+      "difficulty": "Hard",
+      "prepTime": "1 hour",
+      "cookTime": "30 minutes",
+      "servings": 12,
+      "cost": 22,
+      "image": "https://www.munatycooking.com/wp-content/uploads/2019/05/Rasmalai-recipe-feature.jpg",
+      "ingredients": [
+        "Milk powder",
+        "All-purpose flour",
+        "Milk",
+        "Sugar",
+        "Cardamom",
+        "Saffron",
+        "Pistachios",
+        "Rose water"
+      ],
+      "instructions": [
+        "Make milk dough",
+        "Shape into discs",
+        "Cook in sugar syrup",
+        "Prepare milk sauce",
+        "Soak and chill"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Dhokla",
+      "difficulty": "Medium",
+      "prepTime": "8 hours",
+      "cookTime": "20 minutes",
+      "servings": 8,
+      "cost": 8,
+      "image": "https://www.cookwithnabeela.com/wp-content/uploads/2024/02/KhamanDhokla1.webp",
+      "ingredients": [
+        "Gram flour",
+        "Semolina",
+        "Yogurt",
+        "Green chilies",
+        "Ginger",
+        "Eno fruit salt",
+        "Mustard seeds",
+        "Curry leaves"
+      ],
+      "instructions": [
+        "Ferment batter",
+        "Add Eno salt",
+        "Steam until done",
+        "Prepare tempering",
+        "Garnish and serve"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Pani Puri",
+      "difficulty": "Medium",
+      "prepTime": "1 hour",
+      "cookTime": "30 minutes",
+      "servings": 6,
+      "cost": 10,
+      "image": "https://i.pinimg.com/236x/c3/06/44/c306447591e2964aa0e6af142c8009d4.jpg",
+      "ingredients": [
+        "Semolina",
+        "Mint leaves",
+        "Tamarind",
+        "Potatoes",
+        "Chickpeas",
+        "Cumin powder",
+        "Black salt",
+        "Chaat masala"
+      ],
+      "instructions": [
+        "Make puri dough",
+        "Fry puris",
+        "Prepare mint water",
+        "Make potato filling",
+        "Assemble and serve"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Gulab Jamun",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "servings": 20,
+      "cost": 15,
+      "image": "https://cdn.zeptonow.com/production///tr:w-600,ar-100-100,pr-true,f-auto,q-80/web/recipes/gulab-jamun.png",
+      "ingredients": [
+        "Milk powder",
+        "All-purpose flour",
+        "Ghee",
+        "Milk",
+        "Sugar",
+        "Cardamom",
+        "Rose water",
+        "Pistachios"
+      ],
+      "instructions": [
+        "Make dough",
+        "Shape into balls",
+        "Fry until golden",
+        "Soak in syrup",
+        "Garnish and serve"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Aloo Gobi",
+      "difficulty": "Easy",
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "servings": 4,
+      "cost": 8,
+      "image": "https://cinnamonsnail.com/wp-content/uploads/2024/08/Aloo-Gobi-05.jpg",
+      "ingredients": [
+        "Potatoes",
+        "Cauliflower",
+        "Cumin seeds",
+        "Turmeric",
+        "Ginger",
+        "Green chilies",
+        "Coriander leaves",
+        "Garam masala"
+      ],
+      "instructions": [
+        "Temper cumin seeds",
+        "Add vegetables",
+        "Season with spices",
+        "Cook until tender",
+        "Garnish with coriander"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Masala Dosa",
+      "difficulty": "Hard",
+      "prepTime": "8 hours",
+      "cookTime": "30 minutes",
+      "servings": 8,
+      "cost": 12,
+      "image": "https://i.pinimg.com/736x/2a/c1/51/2ac15169850a766390adcba3a6d28eef.jpg",
+      "ingredients": [
+        "Rice",
+        "Urad dal",
+        "Potatoes",
+        "Onions",
+        "Mustard seeds",
+        "Curry leaves",
+        "Coconut chutney",
+        "Sambar"
+      ],
+      "instructions": [
+        "Ferment batter",
+        "Make potato filling",
+        "Spread on hot griddle",
+        "Add filling",
+        "Fold and serve"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Kadhi Pakora",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "45 minutes",
+      "servings": 6,
+      "cost": 10,
+      "image": "https://infusedliving.net/wp-content/uploads/2023/05/Kadhi-pakora-1-scaled.webp",
+      "ingredients": [
+        "Gram flour",
+        "Yogurt",
+        "Onions",
+        "Green chilies",
+        "Turmeric",
+        "Cumin seeds",
+        "Curry leaves",
+        "Asafoetida"
+      ],
+      "instructions": [
+        "Make pakora batter",
+        "Prepare yogurt mixture",
+        "Fry pakoras",
+        "Cook kadhi",
+        "Combine and serve"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Shahi Paneer",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "40 minutes",
+      "servings": 4,
+      "cost": 16,
+      "image": "https://thisthatmore.blog/wp-content/uploads/2021/12/shahi-paneer-recipe-2.jpg",
+      "ingredients": [
+        "Paneer",
+        "Cashews",
+        "Cream",
+        "Tomatoes",
+        "Onions",
+        "Garam masala",
+        "Kasuri methi",
+        "Butter"
+      ],
+      "instructions": [
+        "Make cashew paste",
+        "Prepare tomato gravy",
+        "Add paneer",
+        "Finish with cream",
+        "Garnish with butter"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Vada Pav",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "servings": 8,
+      "cost": 8,
+      "image": "https://thewhiskaddict.com/wp-content/uploads/2024/03/Vada-Pav-scaled.jpg",
+      "ingredients": [
+        "Potatoes",
+        "Pav bread",
+        "Gram flour",
+        "Green chilies",
+        "Ginger",
+        "Garlic",
+        "Turmeric",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "Prepare potato mixture",
+        "Make gram flour batter",
+        "Fry vadas",
+        "Toast pav",
+        "Assemble with chutneys"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Chicken Korma",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "45 minutes",
+      "servings": 6,
+      "cost": 25,
+      "image": "https://www.munatycooking.com/wp-content/uploads/2022/01/Shahi-Korma-recipe-feature-image-small.jpg",
+      "ingredients": [
+        "Chicken",
+        "Yogurt",
+        "Onions",
+        "Cashews",
+        "Korma masala",
+        "Cream",
+        "Saffron",
+        "Ghee"
+      ],
+      "instructions": [
+        "Marinate chicken",
+        "Make cashew paste",
+        "Cook chicken",
+        "Add cream",
+        "Garnish with saffron"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Bhindi Masala",
+      "difficulty": "Easy",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": 4,
+      "cost": 8,
+      "image": "https://aromaticessence.co/wp-content/uploads/2022/06/punjabi_bhindi_masala_gravy_featured.jpg",
+      "ingredients": [
+        "Okra",
+        "Onions",
+        "Tomatoes",
+        "Cumin seeds",
+        "Coriander powder",
+        "Amchur powder",
+        "Garam masala",
+        "Oil"
+      ],
+      "instructions": [
+        "Cut and dry okra",
+        "Fry until crispy",
+        "Make onion masala",
+        "Combine and cook",
+        "Garnish with spices"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Kaju Katli",
+      "difficulty": "Hard",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": 20,
+      "cost": 25,
+      "image": "https://images.healthshots.com/healthshots/en/uploads/2024/10/30172142/kaju-katli-sweets.jpg",
+      "ingredients": [
+        "Cashew powder",
+        "Sugar",
+        "Water",
+        "Ghee",
+        "Cardamom powder",
+        "Silver varq",
+        "Rose water"
+      ],
+      "instructions": [
+        "Make sugar syrup",
+        "Add cashew powder",
+        "Cook until thick",
+        "Roll and shape",
+        "Apply silver varq"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Rajma Chawal",
+      "difficulty": "Medium",
+      "prepTime": "8 hours",
+      "cookTime": "1 hour",
+      "servings": 6,
+      "cost": 12,
+      "image": "https://www.kuchpakrahahai.in/wp-content/uploads/2023/05/Rajma-chawal.jpg",
+      "ingredients": [
+        "Red kidney beans",
+        "Basmati rice",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Rajma masala",
+        "Ghee",
+        "Coriander leaves"
+      ],
+      "instructions": [
+        "Soak rajma overnight",
+        "Pressure cook beans",
+        "Make masala gravy",
+        "Cook rice",
+        "Serve hot"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Mysore Pak",
+      "difficulty": "Hard",
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "servings": 16,
+      "cost": 15,
+      "image": "https://th-i.thgim.com/public/incoming/2v7jjz/article69022142.ece/alternates/FREE_1200/WhatsApp%20Image%202024-12-24%20at%201.58.50%20PM.jpeg",
+      "ingredients": [
+        "Gram flour",
+        "Ghee",
+        "Sugar",
+        "Water",
+        "Cardamom powder"
+      ],
+      "instructions": [
+        "Roast gram flour",
+        "Make sugar syrup",
+        "Mix with hot ghee",
+        "Pour in tray",
+        "Cut when set"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Vegetable Pulao",
+      "difficulty": "Medium",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": 6,
+      "cost": 12,
+      "image": "https://shudhahar.com/wp-content/uploads/2023/04/leftover-veg-pulao-min-jpg-1200x900.webp",
+      "ingredients": [
+        "Basmati rice",
+        "Mixed vegetables",
+        "Whole spices",
+        "Onions",
+        "Ginger-garlic paste",
+        "Ghee",
+        "Mint leaves",
+        "Coriander leaves"
+      ],
+      "instructions": [
+        "Sauté whole spices",
+        "Add vegetables",
+        "Cook rice with spices",
+        "Steam until done",
+        "Garnish with herbs"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Chicken 65",
+      "difficulty": "Medium",
+      "prepTime": "4 hours",
+      "cookTime": "30 minutes",
+      "servings": 4,
+      "cost": 20,
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/chicken-65-restaurant-style.jpg",
+      "ingredients": [
+        "Chicken pieces",
+        "Yogurt",
+        "Red chili powder",
+        "Ginger-garlic paste",
+        "Curry leaves",
+        "Green chilies",
+        "Rice flour",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "Marinate chicken",
+        "Make spicy coating",
+        "Deep fry chicken",
+        "Temper with curry leaves",
+        "Serve hot"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Methi Paratha",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "servings": 8,
+      "cost": 8,
+      "image": "https://www.ohmyveg.co.uk/wp-content/uploads/2024/05/methi-parathas-4-900x1200.jpg",
+      "ingredients": [
+        "Whole wheat flour",
+        "Fenugreek leaves",
+        "Spices",
+        "Ghee",
+        "Salt",
+        "Oil",
+        "Water",
+        "Yogurt"
+      ],
+      "instructions": [
+        "Knead dough",
+        "Mix in fenugreek",
+        "Roll parathas",
+        "Cook on griddle",
+        "Apply ghee"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Rice Kheer",
+      "difficulty": "Easy",
+      "prepTime": "10 minutes",
+      "cookTime": "1 hour",
+      "servings": 6,
+      "cost": 12,
+      "image": "https://masalaandchai.com/wp-content/uploads/2021/08/Rice-Kheer-1.jpg",
+      "ingredients": [
+        "Rice",
+        "Milk",
+        "Sugar",
+        "Cardamom",
+        "Nuts",
+        "Raisins",
+        "Saffron",
+        "Rose water"
+      ],
+      "instructions": [
+        "Cook rice in milk",
+        "Add sugar",
+        "Simmer until thick",
+        "Add nuts",
+        "Garnish with saffron"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Egg Curry",
+      "difficulty": "Easy",
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "servings": 4,
+      "cost": 10,
+      "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2018/Dhaba_Style_Egg_Curry_Recipe-3.jpg",
+      "ingredients": [
+        "Eggs",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Curry leaves",
+        "Coconut milk",
+        "Oil"
+      ],
+      "instructions": [
+        "Boil eggs",
+        "Make curry base",
+        "Add coconut milk",
+        "Simmer eggs in curry",
+        "Garnish with coriander"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Jeera Rice",
+      "difficulty": "Easy",
+      "prepTime": "10 minutes",
+      "cookTime": "20 minutes",
+      "servings": 4,
+      "cost": 6,
+      "image": "https://www.kuchpakrahahai.in/wp-content/uploads/2022/04/Indian-Cumin-Rice.jpg",
+      "ingredients": [
+        "Basmati rice",
+        "Cumin seeds",
+        "Bay leaves",
+        "Ghee",
+        "Green chilies",
+        "Coriander leaves",
+        "Salt",
+        "Water"
+      ],
+      "instructions": [
+        "Rinse rice",
+        "Temper cumin",
+        "Add rice",
+        "Cook until fluffy",
+        "Garnish with coriander"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Onion Bhaji",
+      "difficulty": "Easy",
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "servings": 6,
+      "cost": 8,
+      "image": "https://silkroadrecipes.com/wp-content/uploads/2021/12/Onion-Pakora-Indian-Fritters-square-500x500.jpg",
+      "ingredients": [
+        "Onions",
+        "Gram flour",
+        "Rice flour",
+        "Carom seeds",
+        "Green chilies",
+        "Coriander leaves",
+        "Salt",
+        "Oil for frying"
+      ],
+      "instructions": [
+        "Slice onions",
+        "Make batter",
+        "Coat onions",
+        "Deep fry",
+        "Serve with chutney"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Matar Paneer",
+      "difficulty": "Medium",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": 4,
+      "cost": 15,
+      "image": "https://sinfullyspicy.com/wp-content/uploads/2015/04/1200-by-1200-images.jpg",
+      "ingredients": [
+        "Paneer",
+        "Green peas",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Cream",
+        "Oil"
+      ],
+      "instructions": [
+        "Fry paneer",
+        "Make tomato gravy",
+        "Add peas",
+        "Simmer with spices",
+        "Finish with cream"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Coconut Ladoo",
+      "difficulty": "Easy",
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "servings": 20,
+      "cost": 12,
+      "image": "https://aromaticessence.co/wp-content/uploads/2021/07/coconut_laddoo_featured.jpg",
+      "ingredients": [
+        "Desiccated coconut",
+        "Condensed milk",
+        "Cardamom powder",
+        "Ghee",
+        "Sugar",
+        "Nuts"
+      ],
+      "instructions": [
+        "Mix ingredients",
+        "Cook until thick",
+        "Shape into balls",
+        "Roll in coconut",
+        "Cool and serve"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Mushroom Masala",
+      "difficulty": "Easy",
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "servings": 4,
+      "cost": 12,
+      "image": "https://www.sailusfood.com/wp-content/uploads/2016/02/mushroom-masala.jpg",
+      "ingredients": [
+        "Mushrooms",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Cream",
+        "Kasuri methi",
+        "Oil"
+      ],
+      "instructions": [
+        "Sauté mushrooms",
+        "Make masala base",
+        "Combine ingredients",
+        "Add cream",
+        "Garnish with methi"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Poha",
+      "difficulty": "Easy",
+      "prepTime": "10 minutes",
+      "cookTime": "15 minutes",
+      "servings": 4,
+      "cost": 6,
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Poha-Recipe.jpg",
+      "ingredients": [
+        "Flattened rice",
+        "Onions",
+        "Potatoes",
+        "Peanuts",
+        "Curry leaves",
+        "Mustard seeds",
+        "Green chilies",
+        "Lemon juice"
+      ],
+      "instructions": [
+        "Wash and drain poha",
+        "Temper spices",
+        "Add vegetables",
+        "Mix poha",
+        "Garnish with peanuts"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Chicken Saagwala",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "45 minutes",
+      "servings": 6,
+      "cost": 22,
+      "image": "https://j6e2i8c9.rocketcdn.me/wp-content/uploads/2019/12/Palak-chicken-Recipe.jpg",
+      "ingredients": [
+        "Chicken",
+        "Spinach",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Cream",
+        "Butter"
+      ],
+      "instructions": [
+        "Cook chicken",
+        "Puree spinach",
+        "Make masala base",
+        "Combine all",
+        "Finish with cream"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Aloo Tikki",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "20 minutes",
+      "servings": 8,
+      "cost": 50,
+      "image":  "https://images.mrcook.app/recipe-image/01902c02-975a-7a74-aa2f-c4a53106bb6a",
+      "ingredients": [
+        "Potatoes",
+        "Green peas",
+        "Bread crumbs",
+        "Ginger",
+        "Green chilies",
+        "Coriander leaves",
+        "Chaat masala",
+        "Oil"
+      ],
+      "instructions": [
+        "Mash potatoes",
+        "Mix ingredients",
+        "Shape tikkis",
+        "Shallow fry",
+        "Serve with chutneys"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Carrot Halwa",
+      "difficulty": "Medium",
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "servings": 6,
+      "cost": 15,
+      "image": "https://www.vidhyashomecooking.com/wp-content/uploads/2023/01/CarrotHalwaRecipe.jpg",
+      "ingredients": [
+        "Carrots",
+        "Milk",
+        "Sugar",
+        "Ghee",
+        "Cardamom",
+        "Nuts",
+        "Raisins",
+        "Khoya"
+      ],
+      "instructions": [
+        "Grate carrots",
+        "Cook in milk",
+        "Add sugar and ghee",
+        "Cook until thick",
+        "Garnish with nuts"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Baingan Bharta",
+      "difficulty": "Medium",
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "servings": 4,
+      "cost": 10,
+      "image": "https://goodoldvegan.com/wp-content/uploads/2022/01/Baingan-Bharta-Smoky-Eggplant-Mash.jpg",
+      "ingredients": [
+        "Large eggplant",
+        "Onions",
+        "Tomatoes",
+        "Green chilies",
+        "Ginger-garlic paste",
+        "Cumin seeds",
+        "Garam masala",
+        "Oil"
+      ],
+      "instructions": [
+        "Roast eggplant",
+        "Peel and mash",
+        "Sauté spices",
+        "Add vegetables",
+        "Cook until done"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Shahi Tukda",
+      "difficulty": "Medium",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": 6,
+      "cost": 15,
+      "image": "https://www.whiskaffair.com/wp-content/uploads/2019/03/Shahi-Tukda-2-3.jpg",
+      "ingredients": [
+        "Bread slices",
+        "Milk",
+        "Sugar",
+        "Cardamom",
+        "Saffron",
+        "Ghee",
+        "Nuts",
+        "Rose water"
+      ],
+      "instructions": [
+        "Fry bread in ghee",
+        "Make rabri",
+        "Soak in sugar syrup",
+        "Top with rabri",
+        "Garnish with nuts"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Pav Bhaji",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "45 minutes",
+      "servings": 6,
+      "cost": 12,
+      "image": "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=800",
+      "ingredients": [
+        "Mixed vegetables",
+        "Pav bread",
+        "Butter",
+        "Pav bhaji masala",
+        "Onions",
+        "Tomatoes",
+        "Lemon",
+        "Coriander"
+      ],
+      "instructions": [
+        "Boil vegetables",
+        "Mash with spices",
+        "Cook in butter",
+        "Toast pav",
+        "Serve hot"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Kadai Chicken",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "45 minutes",
+      "servings": 6,
+      "cost": 25,
+      "image": "https://flavorquotient.com/wp-content/uploads/2016/08/Kadai-Chicken-FQ-4-1-of-1.jpg",
+      "ingredients": [
+        "Chicken",
+        "Bell peppers",
+        "Onions",
+        "Tomatoes",
+        "Kadai masala",
+        "Ginger-garlic paste",
+        "Cream",
+        "Butter"
+      ],
+      "instructions": [
+        "Marinate chicken",
+        "Make kadai masala",
+        "Cook chicken",
+        "Add vegetables",
+        "Finish with cream"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Rava Idli",
+      "difficulty": "Easy",
+      "prepTime": "20 minutes",
+      "cookTime": "20 minutes",
+      "servings": 8,
+      "cost": 8,
+      "image": "https://static.wixstatic.com/media/a27d24_1052c0a9e9c64f4bad03fb370e7feef6~mv2.jpg/v1/fill/w_980,h_1310,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a27d24_1052c0a9e9c64f4bad03fb370e7feef6~mv2.jpg",
+      "ingredients": [
+        "Semolina",
+        "Yogurt",
+        "Eno fruit salt",
+        "Mustard seeds",
+        "Curry leaves",
+        "Green chilies",
+        "Coriander leaves",
+        "Oil"
+      ],
+      "instructions": [
+        "Mix batter",
+        "Add fruit salt",
+        "Pour in molds",
+        "Steam until done",
+        "Serve with chutney"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Lauki Kofta",
+      "difficulty": "Medium",
+      "prepTime": "40 minutes",
+      "cookTime": "30 minutes",
+      "servings": 6,
+      "cost": 12,
+      "image": "https://pipingpotcurry.com/wp-content/uploads/2023/01/Lauki-Kofta-Indian-Recipe-Piping-Pot-Curry-1.jpg",
+      "ingredients": [
+        "Bottle gourd",
+        "Gram flour",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Cream",
+        "Oil"
+      ],
+      "instructions": [
+        "Grate and drain lauki",
+        "Make koftas",
+        "Prepare gravy",
+        "Fry koftas",
+        "Combine and serve"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Chana Masala",
+      "difficulty": "Medium",
+      "prepTime": "8 hours",
+      "cookTime": "45 minutes",
+      "servings": 6,
+      "cost": 10,
+      "image": "https://www.kuchpakrahahai.in/wp-content/uploads/2023/02/Vegan-chana-masala.jpg",
+      "ingredients": [
+        "Chickpeas",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Chana masala",
+        "Tea bags",
+        "Coriander leaves",
+        "Oil"
+      ],
+      "instructions": [
+        "Soak chickpeas",
+        "Cook with tea bags",
+        "Make masala gravy",
+        "Combine and simmer",
+        "Garnish with coriander"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Kalakand",
+      "difficulty": "Hard",
+      "prepTime": "15 minutes",
+      "cookTime": "45 minutes",
+      "servings": 16,
+      "cost": 18,
+      "image": "https://www.sailusfood.com/wp-content/uploads/2015/02/kalakand-recipe.jpg",
+      "ingredients": [
+        "Milk powder",
+        "Condensed milk",
+        "Milk",
+        "Cardamom powder",
+        "Pistachios",
+        "Ghee",
+        "Sugar",
+        "Rose water"
+      ],
+      "instructions": [
+        "Mix ingredients",
+        "Cook until thick",
+        "Set in tray",
+        "Cut into squares",
+        "Garnish with nuts"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Dal Tadka",
+      "difficulty": "Easy",
+      "prepTime": "10 minutes",
+      "cookTime": "30 minutes",
+      "servings": 4,
+      "cost": 8,
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Dal-Tadka.jpg",
+      "ingredients": [
+        "Yellow lentils",
+        "Ghee",
+        "Cumin seeds",
+        "Garlic",
+        "Green chilies",
+        "Curry leaves",
+        "Asafoetida",
+        "Coriander leaves"
+      ],
+      "instructions": [
+        "Cook dal",
+        "Prepare tadka",
+        "Add to dal",
+        "Simmer briefly",
+        "Garnish and serve"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Kathi Roll",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "20 minutes",
+      "servings": 6,
+      "cost": 15,
+      "image": "https://www.scrumptiously.com/wp-content/uploads/2024/06/ChickenKathiRoll.webp",
+      "ingredients": [
+        "All-purpose flour",
+        "Chicken/Paneer",
+        "Onions",
+        "Bell peppers",
+        "Egg",
+        "Chaat masala",
+        "Green chutney",
+        "Oil"
+      ],
+      "instructions": [
+        "Make paratha",
+        "Cook filling",
+        "Apply egg wash",
+        "Add filling",
+        "Roll and serve"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Malai Chicken",
+      "difficulty": "Medium",
+      "prepTime": "4 hours",
+      "cookTime": "30 minutes",
+      "servings": 6,
+      "cost": 25,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5ihT467cJaECZAs7GzYIxklPevuZ0U26Ww&s",
+      "ingredients": [
+        "Chicken",
+        "Cream",
+        "Yogurt",
+        "Cashew paste",
+        "Green cardamom",
+        "White pepper",
+        "Butter",
+        "Ginger-garlic paste"
+      ],
+      "instructions": [
+        "Marinate chicken",
+        "Make creamy sauce",
+        "Cook chicken",
+        "Finish with cream",
+        "Garnish and serve"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Moong Dal Halwa",
+      "difficulty": "Hard",
+      "prepTime": "30 minutes",
+      "cookTime": "1 hour",
+      "servings": 8,
+      "cost": 20,
+      "image": "https://foodtrails25.com/wp-content/uploads/2019/10/How-to-make-Moong-Dal.jpg",
+      "ingredients": [
+        "Yellow moong dal",
+        "Ghee",
+        "Sugar",
+        "Milk",
+        "Cardamom powder",
+        "Nuts",
+        "Saffron",
+        "Rose water"
+      ],
+      "instructions": [
+        "Soak and grind dal",
+        "Roast in ghee",
+        "Add milk and sugar",
+        "Cook until thick",
+        "Garnish with nuts"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Mixed Vegetable Curry",
+      "difficulty": "Easy",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": 6,
+      "cost": 12,
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2023/01/Mixed-Veg-Sabzi.jpg",
+      "ingredients": [
+        "Mixed vegetables",
+        "Onions",
+        "Tomatoes",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Turmeric",
+        "Coriander powder",
+        "Oil"
+      ],
+      "instructions": [
+        "Prepare vegetables",
+        "Make masala base",
+        "Add vegetables",
+        "Simmer until cooked",
+        "Garnish with coriander"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Masala Chai",
+      "difficulty": "Easy",
+      "prepTime": "5 minutes",
+      "cookTime": "10 minutes",
+      "servings": 2,
+      "cost": 5,
+      "image": "https://images.unsplash.com/photo-1561336526-2914f13ceb36?w=800",
+      "ingredients": [
+        "Tea leaves",
+        "Milk",
+        "Water",
+        "Cardamom",
+        "Ginger",
+        "Cinnamon",
+        "Cloves",
+        "Sugar"
+      ],
+      "instructions": [
+        "Boil water with spices",
+        "Add tea leaves",
+        "Add milk",
+        "Simmer briefly",
+        "Strain and serve"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Vegetable Sambar",
+      "difficulty": "Medium",
+      "prepTime": "30 minutes",
+      "cookTime": "45 minutes",
+      "servings": 6,
+      "cost": 12,
+      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/01/South-Indian-Sambar-Recipe.jpg",
+      "ingredients": [
+        "Toor dal",
+        "Mixed vegetables",
+        "Sambar powder",
+        "Tamarind",
+        "Mustard seeds",
+        "Curry leaves",
+        "Asafoetida",
+        "Oil"
+      ],
+      "instructions": [
+        "Cook dal",
+        "Prepare vegetables",
+        "Make tamarind extract",
+        "Combine ingredients",
+        "Temper with spices"
+      ]
+    }
+  ]
+}

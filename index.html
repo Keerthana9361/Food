@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Recipe Collection</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1>Indian Culinary Delights</h1>
+            <p>Discover the rich flavors of traditional Indian cuisine</p>
+            <div class="category-filters" id="categoryFilters">
+                <button class="filter-btn active" data-category="all">All Recipes</button>
+                <button class="filter-btn" data-category="vegetarian">Vegetarian</button>
+                <button class="filter-btn" data-category="Nonvegetarian">Non-Vegetarian</button>
+                <button class="filter-btn" data-category="snacks">Snacks</button>
+                <button class="filter-btn" data-category="sweets">Sweets & Desserts</button>
+                <button class="filter-btn" data-category="breakfast">Breakfast</button>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search recipes...">
+            <div class="difficulty-filter">
+                <select id="difficultyFilter">
+                    <option value="all">All Difficulties</option>
+                    <option value="Easy">Easy</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Hard">Hard</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="recipe-grid" id="recipeGrid">
+            <!-- Recipe cards will be inserted here -->
+        </div>
+    </main>
+
+    <div class="modal" id="recipeModal">
+        <div class="modal-content">
+            <button class="close-button" onclick="closeModal()">&times;</button>
+            <div id="modalContent"></div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
