@@ -5,11 +5,11 @@ let searchTerm = '';
 
 // Recipe categories
 const recipeCategories = {
-    vegetarian: ['Palak Paneer', 'Dal Makhani', 'Malai Kofta', 'Aloo Gobi', 'Baingan Bharta', 'Matar Paneer', 'Mushroom Masala', 'Mixed Vegetable Curry', 'Dal Tadka', 'Lauki Kofta', 'Chana Masala', 'Vegetable Sambar', 'Jeera Rice', 'Chole Bhature', 'Kadhi Pakora', 'Shahi Paneer', 'Bhindi Masala', 'Rajma Chawal', 'Vegetable Pulao' ],
-    'Nonvegetarian': ['Butter Chicken', 'Biryani', 'Tandoori Chicken', 'Rogan Josh', 'Chicken 65', 'Chicken Saagwala', 'Kadai Chicken', 'Chicken Korma', 'Malai Chicken', 'Egg Curry'],
-    snacks: ['Samosa', 'Onion Bhaji', 'Aloo Tikki', 'Kathi Roll', 'Pani Puri', 'Vada Pav', 'Dhokla', 'Pav Bhaji', 'Samosas'],
-    sweets: ['Rasmalai', 'Gulab Jamun', 'Kaju Katli', 'Mysore Pak', 'Coconut Ladoo', 'Kalakand', 'Carrot Halwa', 'Shahi Tukda', 'Moong Dal Halwa', 'Rice Kheer'],
-    breakfast: ['Masala Dosa', 'Poha', 'Rava Idli', 'Aloo Paratha', 'Vada Pav', 'Dhokla', 'Methi Paratha', 'Masala Chai']
+    vegetarian: ['Palak Paneer', 'Dal Makhani', 'Malai Kofta', 'Aloo Gobi', 'Baingan Bharta', 'Matar Paneer', 'Mushroom Masala', 'Mixed Vegetable Curry', 'Dal Tadka', 'Lauki Kofta', 'Chana Masala', 'Vegetable Sambar', 'Jeera Rice', 'Chole Bhature', 'Kadhi Pakora', 'Shahi Paneer', 'Bhindi Masala', 'Rajma Chawal', 'Vegetable Pulao', 'Tomato Dal', 'Aloo Koorma', 'Masala Vada curry', 'Snake Gourd Curry' ],
+    'Nonvegetarian': ['Butter Chicken', 'Biryani', 'Tandoori Chicken', 'Rogan Josh', 'Chicken 65', 'Chicken Saagwala', 'Kadai Chicken', 'Chicken Korma', 'Malai Chicken', 'Egg Curry', 'Fish curry', 'Fish Fry', 'Mutton Gravy', 'Mutton Fry', 'Prawn Fry', 'Prawn Curry'],
+    snacks: ['Samosa', 'Onion Bhaji', 'Aloo Tikki', 'Kathi Roll', 'Pani Puri', 'Vada Pav', 'Dhokla', 'Pav Bhaji', 'Samosas', 'Bhel Puri', 'Chikki', 'Murukku', 'Chegodilu', 'Undrallu', 'Modak', 'Puran Poli', 'Banana Chips'],
+    sweets: ['Rasmalai', 'Gulab Jamun', 'Kaju Katli', 'Mysore Pak', 'Coconut Ladoo', 'Kalakand', 'Carrot Halwa', 'Shahi Tukda', 'Moong Dal Halwa', 'Rice Kheer', 'Sweet Pongal', 'Rasgulla', 'Milk Pudding (Junnu)', 'Doodh Peda', 'Kova', 'Boondi Laddu'],
+    breakfast: ['Masala Dosa', 'Poha', 'Rava Idli', 'Aloo Paratha', 'Vada Pav', 'Dhokla', 'Methi Paratha', 'Masala Chai', 'Dosa', 'Masala Puri', 'Chapathi', 'Parotta', 'Rava Upma', 'Vada', 'Dal Pongal' ]
 };
 
 async function loadRecipes() {
